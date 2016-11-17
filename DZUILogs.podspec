@@ -36,5 +36,5 @@ TODO: Add long description of the pod here.aaa
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
    s.dependency 'DZViewControllerLifeCircleAction'
-   s.dependency 'TalkingData-Analytics'
+   s.dependency 'TalkingData-AppAnalytics'
 end
